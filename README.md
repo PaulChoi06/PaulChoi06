@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Choi
-- 👀 I’m interested in prgramming. Especially Python and Java
+- 👀 I’m interested in programming. Especially Python and Java
 - 🌱 I’m currently learning advanced Python, and beginner-intermediate Java
 - 📫 How to reach me: paulchoi1206@gmail.com
 
