@@ -1,6 +1,6 @@
-Hi, I’m Paul Choi
-I’m interested in programming. Especially Python, Wed Development (html/css/JavaScript), and Java
-I’m currently learning advanced Python, intermediate Java, and beginner web development.
+Hi, my name is Paul Choi
+I am very interested in software and mechanical engineering. I usually code Python, Websites (html/css/JavaScript), and Java
+I am currently learning advanced Python, intermediate Java, and beginner web development.
 
 I post most of my projects here.
 
